@@ -28,14 +28,14 @@ Deployment: Netlify/Vercel/GitHub Pages
 1. Clone the Repository
 bash
 Copy
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/NyamburyCollins/expense-tracker
 cd expense-tracker
 2. Install Dependencies
 bash
 Copy
 npm install
 3. Configure PostCSS
-The project uses PostCSS for CSS processing. Ensure postcss.config.js is set up (already included in the project).
+The project uses PostCSS for CSS processing. Please ensure postcss.config.js is set up (already included in the project).
 
 4. Run the Development Server
 bash
@@ -59,11 +59,12 @@ expense-tracker/
 ├── package.json       # Dependencies & scripts
 └── README.md          # This file
 🌐 Live Demo
-View Live Demo (Replace with your deployment link)
+https://expense-tracker-ce3fbs7o3-collins-projects-c89f4d91.vercel.app/
 
 🤝 Contributing
 Contributions are welcome! Open an issue or submit a pull request.
 
 📜 License
-MIT © [Collins Nyambury]
+MIT © [Collins Otieno Nyambury]
+2025
 
